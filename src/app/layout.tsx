@@ -128,6 +128,10 @@ export default function RootLayout({
           name="google-site-verification"
           content="mKyeeHUs8roA9g8NhLQHh353RnEuiFHyUHqEgw5AfXg"
         />
+        <meta
+          name="p:domain_verify"
+          content="d1e46cb57cec762cbf0e36eae4f6ff0d"
+        />
         <link rel="icon" href="/farazahmedabir/favicon.ico" sizes="any" />
         <link rel="apple-touch-icon" href="/farazahmedabir/apple-touch-icon.png" />
         <meta name="theme-color" content="#000000" />
