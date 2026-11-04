@@ -92,10 +92,8 @@ export default function JarlyPrivacyPolicy() {
         <Section title="4. Advertising">
           <p>
             Jarly is free and shows ads through{" "}
-            <strong className="text-foreground">Google AdMob</strong>. To serve and measure ads,
-            Google may collect information such as your device&apos;s advertising ID, IP address,
-            approximate location, device and app information, and ad interactions. This collection
-            is done by Google, not by us, and is governed by{" "}
+            <strong className="text-foreground">Google AdMob</strong>. AdMob is provided by Google
+            and is governed by{" "}
             <a
               className="underline text-foreground"
               href="https://policies.google.com/technologies/partner-sites"
